@@ -25,7 +25,7 @@ body {
   padding: 0;
 }
 
-a, 
+a,
 li,
 .share-menu span:hover {
   color: #00ffbc;
@@ -136,7 +136,7 @@ li.share-menu {
   margin: 0 10px 0 0;
 }
 
-.notification.active { 
+.notification.active {
   color: #ffd400;
   text-shadow: 0 0 10px #ffd400;
-} 
+}

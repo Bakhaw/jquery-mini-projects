@@ -7,9 +7,9 @@ body {
 
 body {
   color: #211f1e;
-  background: url(https://s3.amazonaws.com/codecademy-content/projects/2/forecast/bg.jpg) no-repeat center center fixed; 
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/2/forecast/bg.jpg) no-repeat center center fixed;
   background-size: cover;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   height: 100%;
 }
 
